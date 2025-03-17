@@ -40,7 +40,7 @@ The target variable in my model is the `IS_SUCCESSFUL` column from the dataset, 
 
 ### Compiling, Training, and Evaluating the Model
 4. **How many neurons, layers, and activation functions did you select for your neural network model, and why?**<br>
-    - `AlphabetSoupCharity_Optimazation.H5`
+    - `AlphabetSoupCharity.H5` and `AlphabetSoupCharity_Optimazation.H5`
         - For the initial model I chose to run three layers:
             - Input Layer - `80` Nodes - `Relu` Activation
                 - I chose to run 80 nodes for this layer due to the number of dimensions within the dataset (42)
